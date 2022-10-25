@@ -1,0 +1,5 @@
+A = 10^2
+B = 20.7
+C = (A + B)/B * C
+D = A - B
+print C
